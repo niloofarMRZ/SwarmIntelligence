@@ -10,9 +10,14 @@ Wireless Sensor Networks" using Genetic Algorithms (GA) to be able to cover the 
 
 2)HW2:The objective of this study is to select the appropriate features from some standard databases.
 In this project, 4 algorithms "WHALE","SALP" , "GREYWOLF" and "GRASSHOPPER" are used in binary mode.
+
 Obtaining the following parameters was important in this project:
+
 _ Classification accuracy: it is gained by computing the average accuracy from 20 runs using the selected features on the test dataset.
+
 _ Fitness values: they are gotten from each approach as stated. The mean, min (best), max(worst) and std fitness values are
 compared.
+
 _ Average selection size: is the average number of selected features.
+
 _ Average execution time: is the run time for a given optimizer in seconds.

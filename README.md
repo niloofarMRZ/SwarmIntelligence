@@ -5,10 +5,10 @@ In this course, many algorithms related on this topic, such as: Genetic Algorith
 
 In this course, 2 projects have been done which are as follows:
 
-1) HW1:The aim is to implement the article "An Efficient Genetic Algorithm for Maximizing Area Coverage in
+1) HW1: The aim is to implement the article "An Efficient Genetic Algorithm for Maximizing Area Coverage in
 Wireless Sensor Networks" using Genetic Algorithms (GA) to be able to cover the largest area with limited range of sensors.
 
-2)HW2:The objective of this study is to select the appropriate features from some standard databases.
+2) HW2: The objective of this study is to select the appropriate features from some standard databases.
 In this project, 4 algorithms "WHALE","SALP" , "GREYWOLF" and "GRASSHOPPER" are used in binary mode.
 
 Obtaining the following parameters was important in this project:
